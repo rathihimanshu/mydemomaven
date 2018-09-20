@@ -1,5 +1,7 @@
 <html>
-<body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat!</h2>
+<body bgcolor="#FFFF00">
+<center>
+<h2>IT Works!!!</h2>
+</center>
 </body>
 </html>
